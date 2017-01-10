@@ -1,5 +1,4 @@
 # 연습문제 6. 퇴직 계산기
-```
 
 현재 나이와 퇴직하고자 하는 나이를 입력 받아 다음의 출력 예와 같이 나타낸다.
 
@@ -11,6 +10,7 @@ What is your current age? 25
 At what age would you like to retire? 65
 You have 40 years left until you can retire.
 It's 2015, so you can retire in 2055.
+```
 
 ## 제약 조건
 - 수학 계산에 사용하기 전에 입력 값을 꼭 숫자로 변환시킬 것(string to int)
